@@ -2,3 +2,4 @@
 GitHub Trailhead
 
 Testing a merge conflict 2
+
