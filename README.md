@@ -1,4 +1,4 @@
 # best-repo-ever
 GitHub Trailhead
 
-Testing my first commit
+Testing a merge conflict 2
